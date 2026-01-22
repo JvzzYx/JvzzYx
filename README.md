@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Eu sou João Vitor Magalhães | Estudos em Data Analytics♾️</h2>
+<h2 align="left">Eu sou João Vitor Magalhães | Estudando sempre Data Analytics♾️</h2>
 
 ###
 
